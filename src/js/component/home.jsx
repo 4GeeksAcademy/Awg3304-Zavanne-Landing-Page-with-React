@@ -4,6 +4,7 @@ import Footer from "./Footer";
 import Navbar from "./Navbar";
 
 
+
 //include images into your bundle
 import rigoImage from "../../img/rigo-baby.jpg";
 import Jumbotron from "./Jumbotron";
