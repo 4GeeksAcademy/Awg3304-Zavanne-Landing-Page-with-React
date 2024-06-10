@@ -6,3 +6,14 @@
     scroll-behavior: smooth;
   }
 
+.footer-container {
+  margin-top: 0; 
+  margin-bottom: -10px;
+  padding-bottom: 5px;
+  height: 100px;
+}
+
+body {
+  max-height: 95vh;
+  
+}
