@@ -11,8 +11,7 @@ const Home = () => {
     <div className="">
       <Navbar/>
       <Jumbotron/>
-	  <div className="card-container">
-      <div className="d-flex flex-wrap justify-content-around p-4 m-1" style={{minHeight: "calc(100vh-100px)"}}>
+	  <div className="card-container d-flex flex-wrap justify-content-around p-3 m-1" style={{minHeight: "calc(100vh-100px)"}}>
         <Cards
         image="https://www.burgesspetcare.com/wp-content/uploads/2024/01/shutterstock_478281727-scaled-1.jpg"
         title="Schnauzer Companions"
@@ -33,7 +32,6 @@ const Home = () => {
         title="The Majestic Taj Mahal"
         text="Behold the breathtaking beauty of the Taj Mahal, an iconic symbol of love and architectural marvel. Discover the history, romance, and grandeur of this UNESCO World Heritage Site."
         />
-      </div>
 	  </div>
       <Footer/>
     </div>
